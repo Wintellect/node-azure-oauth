@@ -1,0 +1,23 @@
+{
+  "name": "AzureADOAuth",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "author": {
+    "name": "Me",
+    "email": "me@me.com"
+  },
+  "dependencies": {
+    "express": "^4.0.0",
+    "morgan": "^1.0.0",
+    "body-parser": "^1.0.2",
+    "method-override": "^1.0.0",
+    "errorhandler": "^1.0.0",
+    "passport": "^0.2.0",
+    "ejs": "^1.0.0",
+    "cookie-parser": "^1.0.1",
+    "express-session": "^1.0.3",
+    "passport-oauth": "^1.0.0",
+    "mongoose": "^3.8.8"
+  }
+}
